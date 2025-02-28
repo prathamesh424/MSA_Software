@@ -10,8 +10,6 @@ This is a backend service that provides information about nearby pizza and juice
 - **Frameworks**: Express.js, Apollo Server (GraphQL)
 - **Data Fetching**: Axios
 - **Testing**: Jest, Supertest
-- **Logging**: Winston
-- **Documentation**: Swagger
 
 ## API Endpoints
 
@@ -43,8 +41,8 @@ type Place {
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/prathamesh424/MSA_Software
+   cd MSA_Software
    ```
 
 2. Install dependencies:
